@@ -1,0 +1,27 @@
+School,Name,Grade,Course,TestPercentile,GrowthPercentile
+Scranton Elementary,Michael,1,Reading,17,96
+Scranton Elementary,Pam,2,Reading,25,12
+Scranton Elementary,Jim,3,Reading,8,50
+Scranton Elementary,Dwight,1,Reading,24,57
+Scranton Elementary,Oscar,2,Reading,79,32
+Scranton Elementary,Stanley,3,Reading,21,49
+Scranton Elementary,Angela,1,Reading,4,15
+Corporate Elementary,Jan,2,Reading,40,66
+Corporate Elementary,Ryan,3,Reading,68,47
+Corporate Elementary,Charles,1,Reading,23,27
+Corporate Elementary,David ,2,Reading,36,88
+Corporate Elementary,Sadiq,3,Reading,79,14
+Corporate Elementary,Lisa,1,Reading,37,44
+Scranton Elementary,Michael,1,Math,44,34
+Scranton Elementary,Pam,2,Math,95,94
+Scranton Elementary,Jim,3,Math,40,38
+Scranton Elementary,Dwight,1,Math,61,48
+Scranton Elementary,Oscar,2,Math,45,74
+Scranton Elementary,Stanley,3,Math,63,22
+Scranton Elementary,Angela,1,Math,30,55
+Corporate Elementary,Jan,2,Math,89,52
+Corporate Elementary,Ryan,3,Math,14,46
+Corporate Elementary,Charles,1,Math,3,58
+Corporate Elementary,David ,2,Math,37,96
+Corporate Elementary,Sadiq,3,Math,32,92
+Corporate Elementary,Lisa,1,Math,73,43
